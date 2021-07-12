@@ -1,3 +1,5 @@
+Virtual vending machine designed to be used with a Raspberry Pi.
+
 "make" will compile the code and place the executable in a bin folder
 "make clean" will remove the executable and objects used for compilation
 
